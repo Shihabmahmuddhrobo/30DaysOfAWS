@@ -1,4 +1,4 @@
-# 30DaysOfAWS ☁️🚀
+#30DaysOfAWS ☁️🚀
 
 Welcome to my **#30DaysOfAWS** challenge! 🎯  
 This is my personal commitment to learning and mastering core AWS services, cloud concepts, and best practices over 30 days — all while preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** exam.
