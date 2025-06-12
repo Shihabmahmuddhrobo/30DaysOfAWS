@@ -62,7 +62,7 @@ Learning is always better when shared!
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/shihab-mahmud-dhrobo-22b79816a/])  
+- [LinkedIn](https://www.linkedin.com/in/shihab-mahmud-dhrobo-22b79816a/)  
 - 📬 Email: shihabmahmuddhrobo@gmail.com
 
 Let’s learn, build, and grow together in the cloud! ☁️🚀
